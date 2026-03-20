@@ -28,8 +28,6 @@ No more creating channels one by one. No more setting permissions manually. Buil
 - **Real-Time Progress** — WebSocket-powered live feed showing every step as the bot creates your server
 - **Permission Management** — Set channel-level permission overwrites per role, private channels with one toggle
 - **Save & Reuse** — Save templates and deploy them to multiple servers
-- **Dynamic Pricing** — Pay based on what you deploy. Builder is always free.
-
 ## Screenshots
 
 <p align="center">
@@ -70,20 +68,6 @@ No more creating channels one by one. No more setting permissions manually. Buil
 2. **Build** your server template — add roles, categories, channels, set permissions
 3. **Deploy** to any server where you have admin permissions and the bot is present
 4. **Watch** the bot create everything in real time
-
-## Pricing
-
-DiscForge uses a transparent pay-per-deploy model. The builder is always free.
-
-| Component | Cost |
-|-----------|------|
-| Base fee | $1.00 |
-| Per role | $0.25 |
-| Per category | $0.25 |
-| Per channel | $0.15 |
-| Per permission overwrite | $0.05 |
-
-Price is calculated and shown before you deploy. No surprises.
 
 ## Status
 
