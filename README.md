@@ -27,7 +27,11 @@ No more creating channels one by one. No more setting permissions manually. Buil
 - **One-Click Deploy** — Select a server, press deploy, watch it happen in real time
 - **Real-Time Progress** — WebSocket-powered live feed showing every step as the bot creates your server
 - **Permission Management** — Set channel-level permission overwrites per role, private channels with one toggle
-- **Save & Reuse** — Save templates and deploy them to multiple servers
+- **Save & Reuse** — Save templates, duplicate them, deploy to multiple servers
+- **Drag & Drop** — Reorder roles, categories, and channels with drag-and-drop
+- **Import/Export** — Encrypted template files (.discforge) for backup and sharing
+- **Deploy History** — Full deployment log with details modal
+
 ## Screenshots
 
 <p align="center">
@@ -37,17 +41,27 @@ No more creating channels one by one. No more setting permissions manually. Buil
 
 <p align="center">
   <img src="assets/dashboard.png" alt="Dashboard" width="700" />
-  <br /><em>Dashboard</em>
+  <br /><em>Dashboard — Template Management</em>
 </p>
 
 <p align="center">
   <img src="assets/builder.png" alt="Template Builder" width="700" />
-  <br /><em>Template Builder</em>
+  <br /><em>Template Builder — 3-Panel Editor</em>
 </p>
 
 <p align="center">
   <img src="assets/deploy.png" alt="Deploy View" width="700" />
-  <br /><em>Deploy View</em>
+  <br /><em>Real-Time Deploy Progress</em>
+</p>
+
+<p align="center">
+  <img src="assets/deploy-history.png" alt="Deploy History" width="700" />
+  <br /><em>Deploy History</em>
+</p>
+
+<p align="center">
+  <img src="assets/account-settings.png" alt="Account Settings" width="700" />
+  <br /><em>Account Settings</em>
 </p>
 
 ## Tech Stack
