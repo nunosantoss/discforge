@@ -85,7 +85,7 @@ No more creating channels one by one. No more setting permissions manually. Buil
 
 ## Status
 
-DiscForge is currently in **early access**. [Join the waitlist](https://waitlist.pagesync.pt) to get access.
+DiscForge is currently in **early access**. [Join the waitlist](https://discforge.pt/waitlist) to get access.
 
 ## Author
 
