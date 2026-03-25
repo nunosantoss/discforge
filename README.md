@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.pagesync.pt">Website</a> &middot;
+  <a href="https://discforge.pt">Website</a> &middot;
   <a href="https://waitlist.pagesync.pt">Join Waitlist</a>
 </p>
 
