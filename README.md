@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discforge.pt">Website</a> &middot;
-  <a href="https://waitlist.pagesync.pt">Join Waitlist</a>
+  <a href="https://discforge.pt/waitlist">Join Waitlist</a>
 </p>
 
 ---
